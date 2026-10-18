@@ -10,7 +10,8 @@
 window.BEYONDX_DATA = {
   settings: {
     website: 'https://beyondx.eu/',
-    contactEmail: 'partners@beyondx.eu',
+    contactEmail: 'info@beyondx.eu',
+    partnerEmail: 'partners@beyondx.eu',
     // Change to true ONLY after this mailbox is active and tested.
     emailEnabled: false,
     defaultLanguage: 'en',
@@ -21,61 +22,61 @@ window.BEYONDX_DATA = {
       skip: 'Naar inhoud', navServices: 'Diensten', navPartners: 'Samenwerken', navAbout: 'Over ons', navContact: 'Contact',
       heroEyebrow: 'TECHNOLOGIE · SOFTWARE · SAMENWERKING',
       heroHeading1: 'Digitale oplossingen.', heroHeading2: 'Samen vooruit.',
-      heroText: 'Beyond X helpt organisaties en technologiepartners met software, systeemintegraties en automatisering. We combineren praktische ervaring met een heldere, resultaatgerichte aanpak.',
+      heroText: 'Beyond X ontwikkelt websites, webapplicaties en slimme digitale oplossingen voor bedrijven. Daarnaast werken we samen met ICT-partners en softwarebureaus aan technische projecten.',
       heroPrimary: 'Samenwerking verkennen', heroSecondary: 'Onze diensten',
       visualLabel: 'DIGITALE OPLOSSINGEN', visualCore: 'TECHNOLOGIE & INNOVATIE', visualSupport: 'Van idee tot uitvoering',
       visualTile1: 'Software', visualTile2: 'Integraties', visualTile3: 'Automatisering', visualTile4: 'ICT & advies',
       servicesTag: 'WAT WE DOEN', servicesHeading: 'Technologie die uw organisatie verder helpt.',
-      servicesIntro: 'Praktische digitale diensten, afgestemd op de behoefte en de omvang van uw organisatie.',
+      servicesIntro: 'Van een eerste professionele website voor een klein bedrijf tot maatwerksoftware en integraties voor groeiende organisaties.',
       partnerTag: 'SAMENWERKING', partnerHeading: 'Sterke oplossingen ontstaan samen.',
-      partnerIntro: 'We staan open voor samenwerking met ICT-bedrijven, softwarebureaus en organisaties die aanvullende technische expertise of ontwikkelcapaciteit zoeken.',
+      partnerIntro: 'We werken graag samen met ICT-bedrijven en softwarebureaus die extra ontwikkelcapaciteit, integraties of technische ondersteuning zoeken. Heldere afspraken en praktische uitvoering staan centraal.',
       aboutTag: 'OVER BEYOND X', aboutHeading: 'Technische ervaring. Een brede blik.',
       aboutText: 'Beyond X bouwt voort op praktijkervaring in softwareontwikkeling, automatisering en digitale infrastructuur. Ons uitgangspunt is eenvoudig: kies de technologie die past bij het probleem, niet andersom.',
       foundationTag: 'ONZE TECHNISCHE BASIS', foundationTitle: 'Flexibel en oplossingsgericht.',
       foundationText: 'Van applicaties en databronnen tot integraties en ICT-omgevingen: we bekijken het geheel en werken waar nodig samen met specialistische partners.',
       contactTag: 'CONTACT', contactHeading: 'Een idee of samenwerkingskans?',
-      contactText: 'We gaan graag in gesprek over een concrete uitdaging of mogelijke samenwerking.',
-      contactAction: 'Neem contact op', contactPending: 'Contactgegevens volgen binnenkort.',
+      contactText: 'Een website nodig, een digitaal proces verbeteren of samen een project uitvoeren? Neem contact met ons op.',
+      contactAction: 'Mail ons', contactPending: 'E-mailadressen voor aanvragen en samenwerking',
       contactLocale: 'Nederland · Nederlands / English',
-      footerCaption: 'Software · Integraties · Technologie',
+      footerCaption: 'Websites · Full-Stack · Samenwerking',
       pageTitle: 'Beyond X — Digitale oplossingen & samenwerking',
-      pageDescription: 'Beyond X biedt softwareontwikkeling, integraties, automatisering en technologische samenwerking voor organisaties en ICT-partners.'
+      pageDescription: 'Beyond X ontwikkelt websites en full-stack software voor bedrijven en werkt samen met ICT-partners aan integraties en automatisering.'
     },
     en: {
       skip: 'Skip to content', navServices: 'Services', navPartners: 'Partnerships', navAbout: 'About', navContact: 'Contact',
       heroEyebrow: 'TECHNOLOGY · SOFTWARE · PARTNERSHIPS',
       heroHeading1: 'Digital solutions.', heroHeading2: 'Moving forward together.',
-      heroText: 'Beyond X supports organisations and technology partners with software, system integration and automation. We combine practical experience with a clear, results-driven approach.',
+      heroText: 'Beyond X builds websites, web applications and practical digital solutions for businesses. We also collaborate with ICT providers and software agencies to deliver technical projects.',
       heroPrimary: 'Explore a partnership', heroSecondary: 'Explore our services',
       visualLabel: 'DIGITAL SOLUTIONS', visualCore: 'TECHNOLOGY & INNOVATION', visualSupport: 'From idea to delivery',
       visualTile1: 'Software', visualTile2: 'Integrations', visualTile3: 'Automation', visualTile4: 'ICT & advisory',
       servicesTag: 'WHAT WE DO', servicesHeading: 'Technology that moves your organisation forward.',
-      servicesIntro: 'Practical digital services, tailored to your organisation’s needs and scale.',
+      servicesIntro: 'From a first professional website for a small business to custom software and integrations for growing organisations.',
       partnerTag: 'PARTNERSHIPS', partnerHeading: 'Better solutions are built together.',
-      partnerIntro: 'We welcome opportunities to collaborate with ICT providers, software agencies and organisations looking for complementary technical expertise or development capacity.',
+      partnerIntro: 'We welcome ICT providers and software agencies seeking development capacity, integrations or specialist technical support, with clearly defined responsibilities and practical delivery.',
       aboutTag: 'ABOUT BEYOND X', aboutHeading: 'Hands-on experience. A broader perspective.',
       aboutText: 'Beyond X builds on practical experience in software development, automation and digital infrastructure. Our approach is simple: choose technology based on the problem, not the other way around.',
       foundationTag: 'TECHNICAL FOUNDATION', foundationTitle: 'Flexible and solution-focused.',
       foundationText: 'From applications and data to integrations and ICT environments, we consider the full picture and collaborate with specialist partners when needed.',
       contactTag: 'CONTACT', contactHeading: 'An idea or partnership opportunity?',
-      contactText: 'We would welcome a conversation about a specific challenge or potential partnership.',
-      contactAction: 'Get in touch', contactPending: 'Contact details will be added soon.',
+      contactText: 'Need a website, want to improve a digital workflow, or have a partnership in mind? Get in touch.',
+      contactAction: 'Email us', contactPending: 'Email addresses for enquiries and partnerships',
       contactLocale: 'Netherlands · Nederlands / English',
-      footerCaption: 'Software · Integrations · Technology',
-      pageTitle: 'Beyond X — Digital solutions & partnerships',
-      pageDescription: 'Beyond X supports organisations and ICT partners with software development, integrations, automation and technology partnerships.'
+      footerCaption: 'Websites · Full-Stack · Partnerships',
+      pageTitle: 'Beyond X — Websites, Full-Stack & Partnerships',
+      pageDescription: 'Beyond X builds websites and full-stack software for businesses and collaborates with ICT partners on integration and automation projects.'
     }
   },
 
   // Main services. Avoid promising unsupported certifications or 24/7 support.
   services: [
     {
-      nl: { title: 'Softwareontwikkeling', description: 'Maatwerkapplicaties en digitale tools voor specifieke bedrijfsprocessen.' },
-      en: { title: 'Software development', description: 'Custom applications and digital tools designed for specific business needs.' }
+      nl: { title: 'Full-Stack ontwikkeling', description: 'Webapplicaties op maat, van gebruiksvriendelijke interface tot backend, API en database.' },
+      en: { title: 'Full-Stack Development', description: 'Custom web applications, from accessible frontend to backend, APIs and databases.' }
     },
     {
-      nl: { title: 'Websites & webapplicaties', description: 'Zakelijke websites, portalen en gebruiksvriendelijke online toepassingen.' },
-      en: { title: 'Websites & web applications', description: 'Business websites, portals and accessible online applications.' }
+      nl: { title: 'Websites voor bedrijven', description: 'Professionele, mobielvriendelijke websites voor ondernemers en kleine bedrijven die online zichtbaar willen zijn.' },
+      en: { title: 'Business websites', description: 'Professional, mobile-friendly websites for entrepreneurs and small businesses who want to build their online presence.' }
     },
     {
       nl: { title: 'API’s & systeemintegratie', description: 'Software, databronnen en diensten met elkaar verbinden.' },
@@ -111,7 +112,7 @@ window.BEYONDX_DATA = {
   ],
 
   foundation: {
-    nl: ['Software engineering', 'Digitale toepassingen', 'Integraties & data', 'Automatisering', 'ICT-oplossingen'],
-    en: ['Software engineering', 'Digital applications', 'Integrations & data', 'Automation', 'ICT solutions']
+    nl: ['Full-Stack Development', 'Webontwikkeling', 'Software engineering', 'API-integraties', 'Automatisering', 'ICT-oplossingen'],
+    en: ['Full-Stack Development', 'Web development', 'Software engineering', 'API integrations', 'Automation', 'ICT solutions']
   }
 };
