@@ -70,13 +70,17 @@
 
   const activateContact = () => {
     const { contactEmail, emailEnabled } = data.settings;
+    const general = document.getElementById('contact-general-email');
+    const partner = document.getElementById('contact-partner-email');
+    if (general) general.textContent = contactEmail || '';
+    if (partner) partner.textContent = data.settings.partnerEmail || '';
     if (!emailEnabled || !contactEmail) return;
 
     const link = document.getElementById('contact-link');
     const status = document.getElementById('contact-status');
     link.href = `mailto:${contactEmail}?subject=${encodeURIComponent('Beyond X — Partnership inquiry')}`;
     link.classList.remove('is-hidden');
-    status.textContent = contactEmail;
+    status.textContent = data.text[document.documentElement.lang]?.contactPending || '';
   };
 
   document.getElementById('lang-nl').addEventListener('click', () => setLanguage('nl'));
